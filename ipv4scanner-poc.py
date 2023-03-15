@@ -54,7 +54,7 @@ class Cip_Github_Downloader() :
                     print("no data")
 
 
-                break  
+                
 
 
 def motikan_api(cve_id):
